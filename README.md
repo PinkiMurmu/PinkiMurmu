@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Pinki Murmu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">A student of MAKAUT, WB from India</h3>
+<h3 align="center">A student of MAKAUT, WB (Kalyani)from India</h3>
 <img align="right" alt="Coding" width="400" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkimurmu&label=Profile%20views&color=0e75b6&style=flat" alt="pinkimurmu" /> </p>
